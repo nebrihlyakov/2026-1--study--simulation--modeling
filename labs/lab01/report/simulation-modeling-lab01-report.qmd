@@ -65,3 +65,4 @@ license: "CC BY"
 
 ::: {#refs}
 :::
+{{< include ../project/markdown/01_exponential_growth/01_exponential_growth.qmd >}}
